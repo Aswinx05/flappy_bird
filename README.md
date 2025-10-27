@@ -10,17 +10,29 @@ Watch the AI agent play Flappy Bird 👇
 📁 Repository Structure
 
 flappy_bird/
+
 │
+
 ├── flappy.py              # Game environment (FlappyBirdEnv)
+
 ├── train_agent.py         # Script to train the AI agent
+
 ├── play_agent.py          # Script to load and play the trained model
+
 ├── bird.png               # Bird sprite image
+
 ├── requirements.txt       # Required Python packages
+
 ├── .gitignore             # Ignored files/folders
+
 │
+
 ├── models/
+
 │   └── flappybird_ppo.zip # Saved trained PPO model
+
 │
+
 └── media/
     ├── gameplay.gif       # Demo GIF
     ├── screenshot1.png
@@ -102,5 +114,5 @@ The AI starts by random actions and gradually learns the timing of jumps.
 
 Aswin Ananth S
 🎓 Mini Project — Flappy Bird with AI Agent using Reinforcement Learning
-📂 GitHub Repository
+📂 GitHub Repository - https://github.com/Aswinx05/flappy_bird.git
 
