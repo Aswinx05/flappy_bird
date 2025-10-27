@@ -116,3 +116,8 @@ Aswin Ananth S
 🎓 Mini Project — Flappy Bird with AI Agent using Reinforcement Learning
 📂 GitHub Repository - https://github.com/Aswinx05/flappy_bird.git
 
+
+📜 License
+
+This project is open source under the MIT License — feel free to use and modify with credit.
+
