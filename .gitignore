@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders
+.env/
+.venv/
+venv/
+ENV/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model and training data (optional)
+*.zip
+*.pkl
+*.h5
+*.pt
+*.pth
+*.model
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.bak
+*.old
